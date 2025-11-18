@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1727'de Hattatlar, 2025'te Yazarlar</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✍️</text></svg>">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Open+Sans:wght@400;600&display=swap');
+        body { font-family: 'Open Sans', sans-serif; background: #f8f9fa; color: #333; margin: 0; line-height: 1.7; }
+        header { background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url('https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-4.0.3&auto=format&fit=crop&q=80') center/cover; text-align: center; padding: 120px 20px; color: white; }
+        h1 { font-family: 'Playfair Display', serif; font-size: 3.5em; margin: 0 0 10px 0; }
+        .slogan { font-size: 1.6em; font-style: italic; opacity: 0.9; margin: 0; }
+        .container { max-width: 900px; margin: 40px auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); }
+        h2 { color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        table { width: 100%; border-collapse: collapse; margin: 30px 0; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        ul { list-style-type: disc; padding-left: 20px; }
+        footer { text-align: center; padding: 40px; background: #2c3e50; color: white; margin-top: 60px; }
+        @media (max-width: 768px) { h1 { font-size: 2.5em; } header { padding: 80px 20px; } }
+    </style>
+</head>
+<body>
+<header>
+    <h1>1727’de Hattatlar,<br>2025’te Yazarlar</h1>
+    <p class="slogan">Aynı Korku, Yeni Teknoloji</p>
+</header>
+
+<div class="container">
+    <p><strong>Yazar:</strong> Bahadır Korkmaz • 18 Kasım 2025</p>
+
+    <p>Tarih boyunca yeni iletişim ve üretim teknolojileri toplumlar tarafından benzer tepkilerle karşılanmıştır. Bu yazıda, matbaanın Osmanlı Devleti’nde geç kabul görmesi ile günümüz yapay zekâ teknolojilerine yönelik endişelerin temel benzerlikleri nesnel bir şekilde ele alınacaktır.</p>
+
+    <h2>1. Tarihî Arka Plan</h2>
+    <p>Matbaa, Johannes Gutenberg tarafından 1450’li yıllarda geliştirilmiş ve Avrupa’da hızla yaygınlaşmıştır. Osmanlı Devleti’nde ise ilk matbaa 1727 yılında İbrahim Müteferrika tarafından kurulmuş, böylece Avrupa’ya kıyasla yaklaşık <strong>280 yıllık</strong> bir gecikme yaşanmıştır. Bu gecikmenin temel nedenleri:</p>
+    <ul>
+        <li>Hattatların ekonomik kayıplara uğrayacağı endişesi</li>
+        <li>Dinî metinlerin makine ile basılmasının uygun görülmemesi</li>
+        <li>Bilginin yaygınlaşmasının siyasî kontrolü zorlaştıracağı düşüncesi</li>
+    </ul>
+    <p>1727’de verilen izin yalnızca din dışı eserleri kapsamış, Kur’an-ı Kerim’in basımı 1870’lere kadar yasak kalmıştır.</p>
+
+    <h2>2. Günümüz Yapay Zekâ Teknolojisine Yönelik Eleştiriler</h2>
+    <p>2022’den itibaren ChatGPT, Midjourney, Stable Diffusion gibi üretken yapay zekâ araçlarının yaygınlaşmasıyla benzer endişeler yeniden gündeme gelmiştir:</p>
+    <ul>
+        <li>Yazar, çizer, çevirmen ve yazılımcıların iş gücünün değersizleşeceği</li>
+        <li>Yapay zekâ tarafından üretilen içeriklerin “ruhsuz” olduğu ve yaratıcılığı yok edeceği</li>
+        <li>Deepfake ve yanlış bilgi üretimiyle toplumsal güvenin zedeleneceği</li>
+    </ul>
+
+    <h2>3. Karşılaştırmalı Analiz</h2>
+    <table>
+        <tr>
+            <th>Endişe Türü</th>
+            <th>Matbaa (18. yüzyıl Osmanlı)</th>
+            <th>Yapay Zekâ (2020’ler)</th>
+        </tr>
+        <tr>
+            <td>Ekonomik / İş kaybı</td>
+            <td>Hattatların geçim kaynağı tehlikeye girecek</td>
+            <td>Yaratıcı mesleklerin yerini AI alacak</td>
+        </tr>
+        <tr>
+            <td>Kültürel / Manevî değer</td>
+            <td>Kutsal metinlerin makineyle basılması sakıncalı</td>
+            <td>AI üretiminin “insanî ruh” taşımadığı</td>
+        </tr>
+        <tr>
+            <td>Toplumsal düzen</td>
+            <td>Okuryazarlık artışı kontrolü zorlaştıracak</td>
+            <td>Deepfake ve dezenformasyon toplumsal istikrarı bozacak</td>
+        </tr>
+    </table>
+
+    <h2>4. Sonuç ve Değerlendirme</h2>
+    <p>Tarihî örnekler göstermektedir ki, yeni bir teknolojiye karşı gösterilen direnç genellikle aynı korku kalıplarına dayanmaktadır. Matbaa, gecikmeli de olsa kabul edildiğinde Osmanlı’da bilimsel ve edebî üretimi önemli ölçüde artırmıştır. Günümüzde de yapay zekâ teknolojilerinin erken adaptasyonu, rekabet avantajı sağlama potansiyeli taşımaktadır. Teknoloji karşıtlığı yerine, etik kullanım kuralları ve eğitimle uyum süreci yönetilebilir.</p>
+
+    <h2>Kaynakça</h2>
+    <ul>
+        <li>İhsanoğlu, Ekmeleddin (2004). Osmanlı’da Matbaanın Doğuşu ve Gelişimi</li>
+        <li>Ersoy, Osman (1968). Türkiye’ye Matbaanın Girişi ve İlk Basılan Eserler</li>
+        <li>Müteferrika, İbrahim (1732). Vekâyiü’l-Fünûn</li>
+        <li>Harari, Yuval Noah (2016). Homo Deus: Yarının Kısa Bir Tarihi</li>
+        <li>Avrupa Komisyonu (2024). Artificial Intelligence Act – Resmî Gazete yayınları</li>
+    </ul>
+</div>
+
+<footer>
+    <p>© 2025 – Bahadır Korkmaz'ın Ağ Blogu. Powered by GitHub Pages & Biraz da Grok 😎</p>
+</footer>
+</body>
+</html>
